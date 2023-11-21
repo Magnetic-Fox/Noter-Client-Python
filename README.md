@@ -4,7 +4,7 @@ This repository contains client API and program for REST Noter API.
 
 ## What is included in this repo?
 
-Simple Python codes providing both client API and a client program for REST Noter Backend.
+Simple Python codes providing both client API and a client program for REST Noter Backend (not yet).
 
 ## How to initialize API for further use?
 
